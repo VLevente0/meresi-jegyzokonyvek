@@ -66,4 +66,4 @@
     ![Ping teszt](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/telefon%20ping.PNG)  
 
 14.DHCP teszt mobil eszközön<br>
-      ![DHCp teszt](images/ping_clients.png)  
+      ![DHCp teszt](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/ccaf8a59f421591679ce9606b2f24e2fcc799982/main/kepek/vezeteknelkuli/telefon.jpg)  
