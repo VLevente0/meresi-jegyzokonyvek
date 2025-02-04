@@ -23,6 +23,11 @@
 - 3.Az eszközök csatlakoztatása a vezeték nélküli hálózathoz
 - 4.Tesztelés
 
+## Soho ruter bellításai
+- 1.lépés beállítjuk a router internetportját DHCP-re 
+- 2.lépés a wifi hálózat DHCP beállítása 
+- 3.lépés SSID és jelszóbeállítása
+- 4.lépés az SSID broadcast kikapcsolása és a router pingelés letiltása
 
 ## Tesztelés
 
