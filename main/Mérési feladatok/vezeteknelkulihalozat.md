@@ -56,7 +56,7 @@
 10.Hálózati meghajtók <br>
     ![Hálózati meghajtók](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/netuse.PNG)  
 
-11.www.ipon.hu server tartománynév és IP cím megjelenítése<br>
+11.ipon.hu server tartománynév és IP cím megjelenítése<br>
     ![Ipon domain és IP](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/nslookupipon.PNG)  
 
 12.FQDN megjelenítése<br>
