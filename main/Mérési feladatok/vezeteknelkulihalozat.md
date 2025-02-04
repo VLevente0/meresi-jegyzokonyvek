@@ -27,30 +27,43 @@
 ## Tesztelés
 
 1.IP beállítások lekérése<br>
-![IP beállítások lekérése](images/ip_settings.png)  
+![IP beállítások lekérése](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/ipconfigall.PNG)  
+
 2.IP eldobása<br>
-   ![IP eldobása](images/drop_ip.png)  
+   ![IP eldobása](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/iprelease.PNG)  
+
 3. Új IP kérés <br>
-   ![Új IP kérés](images/request_new_ip.png)  
+   ![Új IP kérés](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/iprenew.PNG)  
+
 4. Routing tábla megjelenítése  <br>
-   ![Routing tábla megjelenítése](images/routing_table.png)  
+   ![Routing tábla megjelenítése](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/routing%20table.PNG) 
+
 5. Microsoft elérhetőség teszt <br>
-   ![Microsoft elérhetőség teszt](images/microsoft_ping.png)  
+   ![Microsoft elérhetőség teszt](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/microsoftping.PNG)  
+
 6. www.ipon.hu server felé vezető útvonal lekövetése <br>
-   ![Traceroute ipon.hu](images/traceroute_ipon.png)  
+   ![Traceroute ipon.hu](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/tracert_ipon.PNG)  
+
 7. Portok listázása  <br>
-   ![Portok listázása](images/list_ports.png)  
+   ![Portok listázása](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/osszes%20port.PNG)  
+
 8. Hálózati kapcsolatok <br>
-   ![Hálózati kapcsolatok](images/network_connections.png)  
+   ![Hálózati kapcsolatok](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/netstat.PNG)  
+   
 9. DNS beállítások aktualizálása <br>
-   ![DNS beállítások](images/dns_update.png)  
+   ![DNS beállítások](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/dns.PNG)  
+
 10. Hálózati meghajtók <br>
-    ![Hálózati meghajtók](images/network_drives.png)  
+    ![Hálózati meghajtók](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/netuse.PNG)  
+
 11.www.ipon.hu server tartománynév és IP cím megjelenítése<br>
-    ![Ipon domain és IP](images/ipon_domain_ip.png)  
+    ![Ipon domain és IP](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/nslookupipon.PNG)  
+
 12. FQDN megjelenítése<br>
-    ![FQDN megjelenítés](images/fqdn_display.png)  
+    ![FQDN megjelenítés](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/nslookup8888.PNG)  
+
 13. Ping a kliensek között <br>
-    ![Ping teszt](images/ping_clients.png)  
+    ![Ping teszt](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/telefon%20ping.PNG)  
+
 14. DHCP teszt mobil eszközön<br>
       ![DHCp teszt](images/ping_clients.png)  
