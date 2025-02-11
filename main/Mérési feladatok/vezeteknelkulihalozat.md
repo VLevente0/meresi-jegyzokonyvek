@@ -42,90 +42,90 @@
 
    <summary>2.IP eldobása</summary>
 
-   ![IP eldobása](https://raw.github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/iprelease.PNG)  
+   ![IP eldobása](https://raw.githubusercontent.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/iprelease.PNG)  
 
 </details>
 
 <details>
    <summary>3.Új IP kérése</summary>
 
-   ![Új IP kérés](https://raw.github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/iprenew.PNG)  
+   ![Új IP kérés](https://raw.githubusercontent.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/iprenew.PNG)  
 
 </details>
 
 <details>
    <summary>4.Routing tábla megjelenítése</summary>
 
-   ![Routing tábla megjelenítése](https://raw.github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/routing%20table.PNG) 
+   ![Routing tábla megjelenítése](https://raw.raw.githubusercontent.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/routing%20table.PNG) 
 
 </details>
 
 <details>
    <summary>5.Microsoft elérhetőség tesz</summary>
 
-   ![Microsoft elérhetőség teszt](https://raw.github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/microsoftping.PNG)  
+   ![Microsoft elérhetőség teszt](https://raw.githubusercontent.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/microsoftping.PNG)  
 
 </details>
 
 <details>
    <summary>6.www.ipon.hu server felé vezető útvonal lekövetése</summary>
 
-   ![Traceroute ipon.hu](https://raw.github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/tracert_ipon.PNG)  
+   ![Traceroute ipon.hu](https://raw.githubusercontent.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/tracert_ipon.PNG)  
 
 </details>
 
 <details>
    <summary>7.Portok listázása</summary>
 
-   ![Portok listázása](https://raw.github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/osszes%20port.PNG)  
+   ![Portok listázása](https://raw.githubusercontent.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/osszes%20port.PNG)  
 
 </details>
 
 <details>
    <summary>8.Hálózati kapcsolatok</summary>
 
-   ![Hálózati kapcsolatok](https://raw.github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/netstat.PNG)  
+   ![Hálózati kapcsolatok](https://raw.githubusercontent.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/netstat.PNG)  
 
 </details>
 
 <details>
    <summary>9.DNS beállítások aktualizálása</summary>
 
-   ![DNS beállítások](https://raw.github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/dns.PNG)  
+   ![DNS beállítások](https://raw.githubusercontent.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/dns.PNG)  
 
 </details>
 
 <details>
    <summary>10.Hálózati meghajtók</summary>
 
-    ![Hálózati meghajtók](https://raw.github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/netuse.PNG)  
+    ![Hálózati meghajtók](https://raw.githubusercontent.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/netuse.PNG)  
 
 </details>
 
 <details>
    <summary>11.'wwwipon.hu' server tartománynév és IP cím megjelenítése</summary>
 
-    ![Ipon domain és IP](https://raw.github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/nslookupipon.PNG)  
+    ![Ipon domain és IP](https://raw.githubusercontent.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/nslookupipon.PNG)  
 
 </details>
 
 <details>
    <summary>12.FQDN megjelenítése</summary>
 
-    ![FQDN megjelenítés](https://raw.github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/nslookup8888.PNG)  
+    ![FQDN megjelenítés](https://raw.githubusercontent.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/nslookup8888.PNG)  
 
 </details>
 
 <details>
    <summary>13.Ping a kliensek között</summary>
  
-    ![Ping teszt](https://raw.github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/telefon%20ping.PNG)  
+    ![Ping teszt](https://raw.githubusercontent.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/telefon%20ping.PNG)  
 
 </details>
 
 <details>
    <summary>14.DHCP teszt mobil eszközön</summary>
 
-      ![DHCp teszt](https://raw.github.com/VLevente0/meresi-jegyzokonyvek/blob/ccaf8a59f421591679ce9606b2f24e2fcc799982/main/kepek/vezeteknelkuli/telefon.jpg)  
+      ![DHCp teszt](https://raw.githubusercontent.com/VLevente0/meresi-jegyzokonyvek/blob/ccaf8a59f421591679ce9606b2f24e2fcc799982/main/kepek/vezeteknelkuli/telefon.jpg)  
 
 </details>
