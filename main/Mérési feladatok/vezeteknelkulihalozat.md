@@ -38,10 +38,15 @@
 
 </details>
 
-main/kepek/vezeteknelkuli/wifijelszo.PNG
+<details>
+   <summary>SSID beállítása</summary>
+
+   ![Új IP kérés](![https://raw.githubusercontent.com/VLevente0/meresi-jegyzokonyvek/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/iprenew.PNG](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/25c2b990d7c8334e1ad67d370a280fd4cea692e0/main/kepek/vezeteknelkuli/ssid.PNG))
+
+</details>
 
 <details>
-   <summary>Router networksetup</summary>
+   <summary>Jelszó beállítása</summary>
 
    ![Új IP kérés](./main/kepek/vezeteknelkuli/wifijelszo.PNG)
 
