@@ -124,8 +124,8 @@
 </details>
 
 <details>
-   <summary>14.DHCP teszt mobil eszközön</summary>
+   <summary>14. DHCP teszt mobil eszközön</summary>
 
-      ![DHCp teszt](https://raw.githubusercontent.com/VLevente0/meresi-jegyzokonyvek/blob/ccaf8a59f421591679ce9606b2f24e2fcc799982/main/kepek/vezeteknelkuli/telefon.jpg)  
+   ![DHCP teszt](https://raw.githubusercontent.com/VLevente0/meresi-jegyzokonyvek/ccaf8a59f421591679ce9606b2f24e2fcc799982/main/kepek/vezeteknelkuli/telefon.jpg)
 
 </details>
