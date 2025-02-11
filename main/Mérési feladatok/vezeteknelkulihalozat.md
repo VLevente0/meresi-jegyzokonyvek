@@ -23,11 +23,26 @@
 - 3.Az eszközök csatlakoztatása a vezeték nélküli hálózathoz
 - 4.Tesztelés
 
-## Soho ruter bellításai
+## Soho router bellításai
 - 1.lépés beállítjuk a router internetportját DHCP-re 
 - 2.lépés a wifi hálózat DHCP beállítása 
 - 3.lépés SSID és jelszóbeállítása
 - 4.lépés az SSID broadcast kikapcsolása és a router pingelés letiltása
+
+<details>
+   <summary>3. Új IP kérése</summary>
+
+   ![Új IP kérés](https://raw.githubusercontent.com/VLevente0/meresi-jegyzokonyvek/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/iprenew.PNG)
+
+</details>
+
+<details>
+   <summary>Anonymous ping letiltása</summary>
+
+   ![Új IP kérés](https://drive.google.com/file/d/1r50Naw9LRDiLEWVXPCt07lOgLyFNbiLE/view?pli=1)
+
+</details>
+
 
 ## Tesztelés
 
