@@ -8,7 +8,7 @@
 
 - **SOHO router** – Linksys WRT54GL<br>
 - **Switch** – cisco catalyst 2950 switch<br>
-- **Laptop** – Levono thinkpad, teszteléshez<br>
+- **Laptop** – Levono thinkpad, teszteléshez és konfigurációhoz<br>
 - **Telefon** – realme gt2 pro, teszteléshez<br>
 
 
