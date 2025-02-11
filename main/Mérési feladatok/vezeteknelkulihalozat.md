@@ -38,50 +38,94 @@
 
 </details>
 
-
 <details>
-  <summary>Kattints ide a tartalom megjelenítéséhez</summary>
-  Itt van a rejtett tartalom, amely csak akkor látható, ha rákattintasz a fülre!
+
+   <summary>2.IP eldobása</summary>
+
+   ![IP eldobása](https://raw.github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/iprelease.PNG)  
+
 </details>
 
-1.IP beállítások lekérése<br>
-![IP beállítások lekérése](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/ipconfigall.PNG)  
+<details>
+   <summary>3.Új IP kérése</summary>
 
-2.IP eldobása<br>
-   ![IP eldobása](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/iprelease.PNG)  
+   ![Új IP kérés](https://raw.github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/iprenew.PNG)  
 
-3.Új IP kérés <br>
-   ![Új IP kérés](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/iprenew.PNG)  
+</details>
 
-4.Routing tábla megjelenítése  <br>
-   ![Routing tábla megjelenítése](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/routing%20table.PNG) 
+<details>
+   <summary>4.Routing tábla megjelenítése</summary>
 
-5.Microsoft elérhetőség teszt <br>
-   ![Microsoft elérhetőség teszt](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/microsoftping.PNG)  
+   ![Routing tábla megjelenítése](https://raw.github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/routing%20table.PNG) 
 
-6.www.ipon.hu server felé vezető útvonal lekövetése <br>
-   ![Traceroute ipon.hu](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/tracert_ipon.PNG)  
+</details>
 
-7.Portok listázása  <br>
-   ![Portok listázása](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/osszes%20port.PNG)  
+<details>
+   <summary>5.Microsoft elérhetőség tesz</summary>
 
-8.Hálózati kapcsolatok <br>
-   ![Hálózati kapcsolatok](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/netstat.PNG)  
+   ![Microsoft elérhetőség teszt](https://raw.github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/microsoftping.PNG)  
 
-9.DNS beállítások aktualizálása <br>
-   ![DNS beállítások](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/dns.PNG)  
+</details>
 
-10.Hálózati meghajtók <br>
-    ![Hálózati meghajtók](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/netuse.PNG)  
+<details>
+   <summary>6.www.ipon.hu server felé vezető útvonal lekövetése</summary>
 
-11.'wwwipon.hu' server tartománynév és IP cím megjelenítése<br>
-    ![Ipon domain és IP](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/nslookupipon.PNG)  
+   ![Traceroute ipon.hu](https://raw.github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/tracert_ipon.PNG)  
 
-12.FQDN megjelenítése<br>
-    ![FQDN megjelenítés](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/nslookup8888.PNG)  
+</details>
 
-13.Ping a kliensek között <br>
-    ![Ping teszt](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/telefon%20ping.PNG)  
+<details>
+   <summary>7.Portok listázása</summary>
 
-14.DHCP teszt mobil eszközön<br>
-      ![DHCp teszt](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/ccaf8a59f421591679ce9606b2f24e2fcc799982/main/kepek/vezeteknelkuli/telefon.jpg)  
+   ![Portok listázása](https://raw.github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/osszes%20port.PNG)  
+
+</details>
+
+<details>
+   <summary>8.Hálózati kapcsolatok</summary>
+
+   ![Hálózati kapcsolatok](https://raw.github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/netstat.PNG)  
+
+</details>
+
+<details>
+   <summary>9.DNS beállítások aktualizálása</summary>
+
+   ![DNS beállítások](https://raw.github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/dns.PNG)  
+
+</details>
+
+<details>
+   <summary>10.Hálózati meghajtók</summary>
+
+    ![Hálózati meghajtók](https://raw.github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/netuse.PNG)  
+
+</details>
+
+<details>
+   <summary>11.'wwwipon.hu' server tartománynév és IP cím megjelenítése</summary>
+
+    ![Ipon domain és IP](https://raw.github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/nslookupipon.PNG)  
+
+</details>
+
+<details>
+   <summary>12.FQDN megjelenítése</summary>
+
+    ![FQDN megjelenítés](https://raw.github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/nslookup8888.PNG)  
+
+</details>
+
+<details>
+   <summary>13.Ping a kliensek között</summary>
+ 
+    ![Ping teszt](https://raw.github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/telefon%20ping.PNG)  
+
+</details>
+
+<details>
+   <summary>14.DHCP teszt mobil eszközön</summary>
+
+      ![DHCp teszt](https://raw.github.com/VLevente0/meresi-jegyzokonyvek/blob/ccaf8a59f421591679ce9606b2f24e2fcc799982/main/kepek/vezeteknelkuli/telefon.jpg)  
+
+</details>
