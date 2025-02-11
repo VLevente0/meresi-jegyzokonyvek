@@ -67,8 +67,8 @@
 </details>
 
 <details>
-   <summary>6. www.ipon.hu server felé vezető útvonal lekövetése</summary>
-   
+   <summary>6. ipon weboldalnak server felé vezető útvonal lekövetése</summary>
+
    ![Traceroute ipon.hu](https://raw.githubusercontent.com/VLevente0/meresi-jegyzokonyvek/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/tracert_ipon.PNG)
 </details>
 
