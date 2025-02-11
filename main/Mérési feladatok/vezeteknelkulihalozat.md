@@ -34,14 +34,15 @@
 <details>
    <summary>Router networksetup</summary>
 
-   ![Új IP kérés](https://raw.githubusercontent.com/VLevente0/meresi-jegyzokonyvek/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/iprenew.PNG)
+   ![Router networksetup](https://raw.githubusercontent.com/VLevente0/meresi-jegyzokonyvek/1c88122d2de47944a63e907eedb924ed6738f154/main/kepek/vezeteknelkuli/router.PNG)
 
 </details>
+
 
 <details>
    <summary>SSID beállítása</summary>
 
-   ![Új IP kérés](![https://raw.githubusercontent.com/VLevente0/meresi-jegyzokonyvek/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/iprenew.PNG](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/25c2b990d7c8334e1ad67d370a280fd4cea692e0/main/kepek/vezeteknelkuli/ssid.PNG))
+   ![SSID beállítása](https://raw.githubusercontent.com/VLevente0/meresi-jegyzokonyvek/25c2b990d7c8334e1ad67d370a280fd4cea692e0/main/kepek/vezeteknelkuli/ssid.PNG)
 
 </details>
 
