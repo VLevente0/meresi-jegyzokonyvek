@@ -68,7 +68,7 @@
 
 <details>
    <summary>6. www.ipon.hu server felé vezető útvonal lekövetése</summary>
-
+   
    ![Traceroute ipon.hu](https://raw.githubusercontent.com/VLevente0/meresi-jegyzokonyvek/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/tracert_ipon.PNG)
 </details>
 
@@ -111,7 +111,7 @@
 
 <details>
    <summary>13. Ping a kliensek között</summary>
-   
+
    ![Ping teszt](https://raw.githubusercontent.com/VLevente0/meresi-jegyzokonyvek/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/telefon%20ping.PNG)
 
 </details>
