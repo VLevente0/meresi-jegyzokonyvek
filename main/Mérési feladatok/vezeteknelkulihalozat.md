@@ -47,17 +47,18 @@
 </details>
 
 <details>
-   <summary>Jelszó beállítása</summary>
+   <summary>Router networksetup</summary>
 
-   ![Új IP kérés](./main/kepek/vezeteknelkuli/wifijelszo.PNG)
+   ![Router networksetup](https://raw.githubusercontent.com/VLevente0/meresi-jegyzokonyvek/1c88122d2de47944a63e907eedb924ed6738f154/main/kepek/vezeteknelkuli/router.PNG)
 
 </details>
+
 
 
 <details>
    <summary>Anonymous ping letiltása</summary>
 
-   ![Új IP kérés](https://drive.google.com/file/d/1r50Naw9LRDiLEWVXPCt07lOgLyFNbiLE/view?pli=1)
+   ![Új IP kérés](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/3e0b41f865134c8b556df253f58d6486003618e4/main/kepek/vezeteknelkuli/ping%20tilt%C3%A1sa.PNG)
 
 </details>
 
