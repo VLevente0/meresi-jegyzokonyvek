@@ -30,7 +30,7 @@
 - 4.lépés az SSID broadcast kikapcsolása és a router pingelés letiltása
 
 <details>
-   <summary>3. Új IP kérése</summary>
+   <summary>Router networksetup</summary>
 
    ![Új IP kérés](https://raw.githubusercontent.com/VLevente0/meresi-jegyzokonyvek/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/iprenew.PNG)
 
