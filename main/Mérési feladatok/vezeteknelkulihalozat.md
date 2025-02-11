@@ -126,5 +126,5 @@
 <details>
    <summary>14. DHCP teszt mobil eszközön</summary>
 
-   <img src="https://raw.githubusercontent.com/VLevente0/meresi-jegyzokonyvek/ccaf8a59f421591679ce9606b2f24e2fcc799982/main/kepek/vezeteknelkuli/telefon.jpg" alt="DHCP teszt" width="500" />
+   <img src="https://raw.githubusercontent.com/VLevente0/meresi-jegyzokonyvek/ccaf8a59f421591679ce9606b2f24e2fcc799982/main/kepek/vezeteknelkuli/telefon.jpg" alt="DHCP teszt" height="500" />
 </details>
