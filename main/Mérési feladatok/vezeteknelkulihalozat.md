@@ -33,7 +33,7 @@
 
 <details>
   <summary>1.IP beállítások lekérése<br></summary>
- ![IP beállítások lekérése](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/ipconfigall.PNG)
+   ![IP beállítások lekérése](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/1eb8b665f183455c319a1e76501595f331b03d3a/main/kepek/vezeteknelkuli/ipconfigall.PNG)
 
 </details>
 
