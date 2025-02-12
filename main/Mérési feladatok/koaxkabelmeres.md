@@ -23,7 +23,7 @@ Vad Levente
 
 | Frekvencia      | 177.5 MHz      | 858 MHz      | 
 |-----------------|----------------|--------------|
-| Csillapítás     | 36.8 dB        | 36.2 dB      |
+| Csillapítás     | 0.7 dB         | 1 dB         |
 
 
 <details>
