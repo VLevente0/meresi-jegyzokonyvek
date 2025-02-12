@@ -10,9 +10,9 @@ Vad Levente
 ### 1. Használt eszközök
 
 - **Koax kábel**: 
-- **2db f-csatlakozó**: 
-- **Johansson 8202**:
-- **Metek HDD**: 
+- **2db f-csatlakozó** 
+- **Johansson 8202**
+- **Metek HDD**
 
 ### 2. A mérés menete 
 
