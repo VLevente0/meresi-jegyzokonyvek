@@ -19,6 +19,7 @@
 - **3.lépés összekötjük a Metek HDD spektrum analizátort a modulátorral** <br>
 - **4.lépés leolvassuk a jelszintet a spekrum analizátorról és a beállított jelszintből kivonjuk a leolvasottatt**<br>
 
+### 3. Mért adatok
 
 | Frekvencia      | 177.5 MHz      | 858 MHz      | 
 |-----------------|----------------|--------------|
