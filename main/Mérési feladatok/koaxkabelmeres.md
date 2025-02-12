@@ -16,9 +16,9 @@ Vad Levente
 
 ### 2. A mérés menete 
 
---1.lépés beállítjuk a johansson modulátoron a jelerősséget (90dBu) és frekvenciát (177.5 MHz és 858 MHz) 
---2.lépés összekötjük a Metek HDD spektrum analizátort a modulátorral 
---3.lépés leolvassuk a jelszintet a spekrum analizátorról és a beállított jelszintből kivonjuk a leolvasottatt
+--1.lépés beállítjuk a johansson modulátoron a jelerősséget (90dBu) és frekvenciát (177.5 MHz és 858 MHz)<br>
+--2.lépés összekötjük a Metek HDD spektrum analizátort a modulátorral <br>
+--3.lépés leolvassuk a jelszintet a spekrum analizátorról és a beállított jelszintből kivonjuk a leolvasottatt<br>
 
 
 | Frekvencia      | 177.5 MHz      | 858 MHz      | 
