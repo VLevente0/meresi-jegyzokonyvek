@@ -1,9 +1,7 @@
 # Távközlési Technikus Vizsga Jegyzőkönyv
 
-## Vizsgázó Neve:
-Vad Levente
 
-## Vizsgafeladat: Koaxiális kábel szerelése
+## Feladat: Koaxiális kábel szerelése
 
 ---
 
@@ -47,3 +45,7 @@ Vad Levente
    !<img src="https://github.com/VLevente0/meresi-jegyzokonyvek/blob/d55008dad65f3f7e0ee65101028dff028a0becd6/main/kepek/koaxmeres/858mhz.jpg" Width="600">
 
 </details>
+
+---
+
+## Készítette: Vad Levente
