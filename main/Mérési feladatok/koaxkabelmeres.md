@@ -11,8 +11,15 @@ Vad Levente
 
 - **Koax kábel**: 
 - **2db f-csatlakozó**: 
-- **Johanson 8202**:
+- **Johansson 8202**:
 - **Metek HDD**: 
+
+### 2. A mérés menete 
+
+--1.lépés beállítjuk a johansson modulátoron a jelerősséget (90dBu) és frekvenciát (177.5 MHz és 858 MHz) 
+--2.lépés összekötjük a Metek HDD spektrum analizátort a modulátorral 
+--3.lépés leolvassuk a jelszintet a spekrum analizátorról és a beállított jelszintből kivonjuk a leolvasottatt
+
 
 | Frekvencia      | 177.5 MHz      | 858 MHz      | 
 |-----------------|----------------|--------------|
@@ -22,14 +29,21 @@ Vad Levente
 <details>
    <summary>Kép az elkészült csatlakozóról</summary>
 
-   ![SSID beállítása](https://raw.githubusercontent.com/VLevente0/meresi-jegyzokonyvek/25c2b990d7c8334e1ad67d370a280fd4cea692e0/main/kepek/vezeteknelkuli/ssid.PNG)
+   ![SSID beállítása](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/21de594e39f555c50dcd4405d277414feca7d7bd/main/kepek/koaxmeres/koax.jpg)
 
 </details>
 
 
 <details>
-   <summary>A kábel csillapításának mérése</summary>
+   <summary>177.5 MHz-en mért jelszint</summary>
 
-   ![SSID beállítása](https://raw.githubusercontent.com/VLevente0/meresi-jegyzokonyvek/25c2b990d7c8334e1ad67d370a280fd4cea692e0/main/kepek/vezeteknelkuli/ssid.PNG)
+   ![SSID beállítása](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/d55008dad65f3f7e0ee65101028dff028a0becd6/main/kepek/koaxmeres/177mhz.jpg)
+
+</details>
+
+<details>
+   <summary>858 MHz-en mért jelszint</summary>
+
+   ![SSID beállítása](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/d55008dad65f3f7e0ee65101028dff028a0becd6/main/kepek/koaxmeres/858mhz.jpg)
 
 </details>
