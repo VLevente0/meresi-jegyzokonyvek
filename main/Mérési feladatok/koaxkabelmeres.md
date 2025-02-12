@@ -29,7 +29,7 @@ Vad Levente
 <details>
    <summary>Kép az elkészült csatlakozóról</summary>
 
-   ![SSID beállítása](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/21de594e39f555c50dcd4405d277414feca7d7bd/main/kepek/koaxmeres/koax.jpg)
+   !<img src="https://github.com/VLevente0/meresi-jegyzokonyvek/blob/21de594e39f555c50dcd4405d277414feca7d7bd/main/kepek/koaxmeres/koax.jpg" height="300">
 
 </details>
 
