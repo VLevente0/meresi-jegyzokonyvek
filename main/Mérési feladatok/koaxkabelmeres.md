@@ -27,7 +27,7 @@
 <details>
    <summary>Kép az elkészült csatlakozóról</summary>
 
-   !<img src="https://github.com/VLevente0/meresi-jegyzokonyvek/blob/21de594e39f555c50dcd4405d277414feca7d7bd/main/kepek/koaxmeres/koax.jpg" height="300">
+   <img src="https://github.com/VLevente0/meresi-jegyzokonyvek/blob/21de594e39f555c50dcd4405d277414feca7d7bd/main/kepek/koaxmeres/koax.jpg" height="300">
 
 </details>
 
@@ -35,14 +35,14 @@
 <details>
    <summary>177.5 MHz-en mért jelszint</summary>
 
-   !<img src="https://github.com/VLevente0/meresi-jegyzokonyvek/blob/d55008dad65f3f7e0ee65101028dff028a0becd6/main/kepek/koaxmeres/177mhz.jpg" Width="600">
+   <img src="https://github.com/VLevente0/meresi-jegyzokonyvek/blob/d55008dad65f3f7e0ee65101028dff028a0becd6/main/kepek/koaxmeres/177mhz.jpg" Width="600">
 
 </details>
 
 <details>
    <summary>858 MHz-en mért jelszint</summary>
 
-   !<img src="https://github.com/VLevente0/meresi-jegyzokonyvek/blob/d55008dad65f3f7e0ee65101028dff028a0becd6/main/kepek/koaxmeres/858mhz.jpg" Width="600">
+   <img src="https://github.com/VLevente0/meresi-jegyzokonyvek/blob/d55008dad65f3f7e0ee65101028dff028a0becd6/main/kepek/koaxmeres/858mhz.jpg" Width="600">
 
 </details>
 
