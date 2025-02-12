@@ -37,13 +37,13 @@ Vad Levente
 <details>
    <summary>177.5 MHz-en mért jelszint</summary>
 
-   ![SSID beállítása](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/d55008dad65f3f7e0ee65101028dff028a0becd6/main/kepek/koaxmeres/177mhz.jpg)
+   !<img src="https://github.com/VLevente0/meresi-jegyzokonyvek/blob/d55008dad65f3f7e0ee65101028dff028a0becd6/main/kepek/koaxmeres/177mhz.jpg" Width="600">
 
 </details>
 
 <details>
    <summary>858 MHz-en mért jelszint</summary>
 
-   ![SSID beállítása](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/d55008dad65f3f7e0ee65101028dff028a0becd6/main/kepek/koaxmeres/858mhz.jpg)
+   !<img src="https://github.com/VLevente0/meresi-jegyzokonyvek/blob/d55008dad65f3f7e0ee65101028dff028a0becd6/main/kepek/koaxmeres/858mhz.jpg" Width="600">
 
 </details>
