@@ -34,8 +34,8 @@
 <details>
    <summary>880MHz-es AM moduláció</summary><br>
     <p>880MHz modulált AM jel</p>
-   <img src="https://github.com/VLevente0/meresi-jegyzokonyvek/blob/45f50fda3070bb9bf50707c88ef51e37a3cb1f8c/main/kepek/am/880.jpg" height="500"><br>
-   <p>100kHz moduláló jel</p><br>
+   <img src="https://github.com/VLevente0/meresi-jegyzokonyvek/blob/45f50fda3070bb9bf50707c88ef51e37a3cb1f8c/main/kepek/am/880.jpg" height="500"><br><br>
+   <p>100kHz moduláló jel</p>
     <img src="https://github.com/VLevente0/meresi-jegyzokonyvek/blob/577008c42fe98c62fe71d3e7096996e36957ae40/main/kepek/am/TA01.PNG" height="500">
 
 
@@ -45,8 +45,8 @@
 <details>
    <summary>900MHz-es AM moduláció</summary><br>
     <p>900MHz modulált AM jel</p><br>
-   <img src="https://github.com/VLevente0/meresi-jegyzokonyvek/blob/577008c42fe98c62fe71d3e7096996e36957ae40/main/kepek/am/900.jpg" height="500"><br>
-    <p>500kHz moduláló jel</p><br>
+   <img src="https://github.com/VLevente0/meresi-jegyzokonyvek/blob/577008c42fe98c62fe71d3e7096996e36957ae40/main/kepek/am/900.jpg" height="500"><br><br>
+    <p>500kHz moduláló jel</p>
     <img src="https://github.com/VLevente0/meresi-jegyzokonyvek/blob/577008c42fe98c62fe71d3e7096996e36957ae40/main/kepek/am/TA02.PNG" height="500">
 
 </details>
