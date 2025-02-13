@@ -12,14 +12,14 @@
 
 ## Mérés menete
 
--1.lépés: GRF-1300A tréneren AM jel előállítása
--2.lépés: 100kHz frekvenciájú moduláló jel és 880MHz vivőfrekvencia beállítása
--3.lépés: A spektrumanalizátor csatlakoztatása a moduláló jel kimenetére
--4.lépés: Az oszcilloszkóp csatlakoztatása az AM jel kimenetére
--5.lépés: Az oszcilloszkóp segítségével 100%-os moduláció (6dB) beállítása és sávszélesség meghatározása
--6.lépés: Moduláló jel peak to peak feszültségét megmérni oszcilloszók segítségével
--7.lépés: Moduláló jel frekvenciájának átállítása 500kHz-re és vivőfrekvencia átállítása 900MHz-re
--8.lépés: 63%-os moduláció (10dB) beállítása és sávszélesség mmeghatározása
+-1.lépés: GRF-1300A tréneren AM jel előállítása<br>
+-2.lépés: 100kHz frekvenciájú moduláló jel és 880MHz vivőfrekvencia beállítása<br>
+-3.lépés: A spektrumanalizátor csatlakoztatása a moduláló jel kimenetére<br>
+-4.lépés: Az oszcilloszkóp csatlakoztatása az AM jel kimenetére<br>
+-5.lépés: Az oszcilloszkóp segítségével 100%-os moduláció (6dB) beállítása és sávszélesség meghatározása<br>
+-6.lépés: Moduláló jel peak to peak feszültségét megmérni oszcilloszók segítségével<br>
+-7.lépés: Moduláló jel frekvenciájának átállítása 500kHz-re és vivőfrekvencia átállítása 900MHz-re<br>
+-8.lépés: 63%-os moduláció (10dB) beállítása és sávszélesség mmeghatározása<br>
 
 ## Mért adatok
 
