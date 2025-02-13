@@ -12,4 +12,9 @@
 
 ## Mérés menete
 
+-1.lépés: GRF-1300A tréner 
+-2.lépés:
+-3.lépés:
+
+
 
