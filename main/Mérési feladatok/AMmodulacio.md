@@ -29,3 +29,21 @@
 | 900 MHz         | 500 kHz                 | 5 MHz     | 63%          | 1.16 V |
 
 
+# Mérések
+
+<details>
+   <summary>880MHz-es AM moduláció</summary>
+
+   <img src="https://github.com/VLevente0/meresi-jegyzokonyvek/blob/21de594e39f555c50dcd4405d277414feca7d7bd/main/kepek/koaxmeres/koax.jpg" height="300">
+    <img src="https://github.com/VLevente0/meresi-jegyzokonyvek/blob/21de594e39f555c50dcd4405d277414feca7d7bd/main/kepek/koaxmeres/koax.jpg" height="300">
+
+</details>
+
+
+<details>
+   <summary>900MHz-es AM moduláció</summary>
+
+   <img src="https://github.com/VLevente0/meresi-jegyzokonyvek/blob/21de594e39f555c50dcd4405d277414feca7d7bd/main/kepek/koaxmeres/koax.jpg" height="300">
+    <img src="https://github.com/VLevente0/meresi-jegyzokonyvek/blob/21de594e39f555c50dcd4405d277414feca7d7bd/main/kepek/koaxmeres/koax.jpg" height="300">
+
+</details>
