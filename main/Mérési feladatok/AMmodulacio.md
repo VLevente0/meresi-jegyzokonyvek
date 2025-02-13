@@ -34,9 +34,9 @@
 <details>
    <summary>880MHz-es AM moduláció</summary>
 
-   <img src="https://github.com/VLevente0/meresi-jegyzokonyvek/blob/45f50fda3070bb9bf50707c88ef51e37a3cb1f8c/main/kepek/am/880.jpg" height="300">
+   <img src="https://github.com/VLevente0/meresi-jegyzokonyvek/blob/45f50fda3070bb9bf50707c88ef51e37a3cb1f8c/main/kepek/am/880.jpg" height="500">
    <p>880MHz modulált AM jel</p>
-    <img src="https://github.com/VLevente0/meresi-jegyzokonyvek/blob/21de594e39f555c50dcd4405d277414feca7d7bd/main/kepek/koaxmeres/koax.jpg" height="300">
+    <img src="https://github.com/VLevente0/meresi-jegyzokonyvek/blob/577008c42fe98c62fe71d3e7096996e36957ae40/main/kepek/am/TA01.PNG" height="500">
     <p>100kHz moduláló jel</p>
 
 </details>
@@ -45,9 +45,9 @@
 <details>
    <summary>900MHz-es AM moduláció</summary>
 
-   <img src="https://github.com/VLevente0/meresi-jegyzokonyvek/blob/21de594e39f555c50dcd4405d277414feca7d7bd/main/kepek/koaxmeres/koax.jpg" height="300">
+   <img src="https://github.com/VLevente0/meresi-jegyzokonyvek/blob/577008c42fe98c62fe71d3e7096996e36957ae40/main/kepek/am/900.jpg" height="500">
    <p>900MHz modulált AM jel</p>
-    <img src="https://github.com/VLevente0/meresi-jegyzokonyvek/blob/21de594e39f555c50dcd4405d277414feca7d7bd/main/kepek/koaxmeres/koax.jpg" height="300">
+    <img src="https://github.com/VLevente0/meresi-jegyzokonyvek/blob/577008c42fe98c62fe71d3e7096996e36957ae40/main/kepek/am/TA02.PNG" height="500">
     <p>500kHz moduláló jel</p>
 
 </details>
