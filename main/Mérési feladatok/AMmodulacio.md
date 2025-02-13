@@ -34,8 +34,8 @@
 <details>
    <summary>880MHz-es AM moduláció</summary>
 
-   <img src="https://github.com/VLevente0/meresi-jegyzokonyvek/blob/21de594e39f555c50dcd4405d277414feca7d7bd/main/kepek/koaxmeres/koax.jpg" height="300">
-    <img src="https://github.com/VLevente0/meresi-jegyzokonyvek/blob/21de594e39f555c50dcd4405d277414feca7d7bd/main/kepek/koaxmeres/koax.jpg" height="300">
+   <img src="https://github.com/VLevente0/meresi-jegyzokonyvek/blob/45f50fda3070bb9bf50707c88ef51e37a3cb1f8c/main/kepek/am/880.jpg" height="300">
+    <img src="https://github.com/VLevente0/meresi-jegyzokonyvek/blob/45f50fda3070bb9bf50707c88ef51e37a3cb1f8c/main/kepek/am/TA01.PNG" height="300">
 
 </details>
 
@@ -43,7 +43,7 @@
 <details>
    <summary>900MHz-es AM moduláció</summary>
 
-   <img src="https://github.com/VLevente0/meresi-jegyzokonyvek/blob/21de594e39f555c50dcd4405d277414feca7d7bd/main/kepek/koaxmeres/koax.jpg" height="300">
-    <img src="https://github.com/VLevente0/meresi-jegyzokonyvek/blob/21de594e39f555c50dcd4405d277414feca7d7bd/main/kepek/koaxmeres/koax.jpg" height="300">
+   <img src="https://github.com/VLevente0/meresi-jegyzokonyvek/blob/45f50fda3070bb9bf50707c88ef51e37a3cb1f8c/main/kepek/am/900.jpg" height="300">
+    <img src="https://github.com/VLevente0/meresi-jegyzokonyvek/blob/45f50fda3070bb9bf50707c88ef51e37a3cb1f8c/main/kepek/am/TA02.PNG" height="300">
 
 </details>
