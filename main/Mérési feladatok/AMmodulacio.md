@@ -17,6 +17,14 @@
 -3.lépés: A spektrumanalizátor csatlakoztatása a moduláló jel kimenetére
 -4.lépés: Az oszcilloszkóp csatlakoztatása az AM jel kimenetére
 -5.lépés: Az oszcilloszkóp segítségével 100%-os moduláció (6dB) beállítása és sávszélesség meghatározása
--6.lépés: Moduláló jel frekvenciájának átállítása 500kHz-re és vivőfrekvencia átállítása 900MHz-re
--7.lépés: 63%-os moduláció (10dB) beállítása és sávszélesség mmeghatározása
+-6.lépés: Moduláló jel peak to peak feszültségét megmérni oszcilloszók segítségével
+-7.lépés: Moduláló jel frekvenciájának átállítása 500kHz-re és vivőfrekvencia átállítása 900MHz-re
+-8.lépés: 63%-os moduláció (10dB) beállítása és sávszélesség mmeghatározása
+
+## Mért adatok
+
+| Vivőfrekvencia    | Moduláló jel frekvencia     | Moduláció     | sávszélesség       | Vpp         |
+| -------------|--------------| ---------------|------|-------------------|-----------------|
+|      880MHz       |   100kHz    |   5MHz     |  100%   |   1.06V       |
+|      900MHz      |  500kHz  |       5MHz     |  63%    |   1.16%        |
 
