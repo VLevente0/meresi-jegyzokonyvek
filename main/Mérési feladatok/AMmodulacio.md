@@ -23,8 +23,9 @@
 
 ## Mért adatok
 
-| Vivőfrekvencia    | Moduláló jel frekvencia     | Moduláció     | sávszélesség       | Vpp         |
-| -------------|--------------| ---------------|------|-------------------|-----------------|
-|      880MHz       |   100kHz    |   5MHz     |  100%   |   1.06V       |
-|      900MHz      |  500kHz  |       5MHz     |  63%    |   1.16%        |
+| Vivőfrekvencia | Moduláló jel frekvencia | Moduláció | Sávszélesség | Vpp   |
+| --------------- | ----------------------- | --------- | ------------ | ----- |
+| 880 MHz         | 100 kHz                 | 5 MHz     | 100%         | 1.06 V |
+| 900 MHz         | 500 kHz                 | 5 MHz     | 63%          | 1.16 V |
+
 
